@@ -7,7 +7,7 @@ A repo of starter code kit for web-automation agent
 1. Create a new virtual environment
 
    ```bash
-   python3.11 -m venv .venv
+   python -m venv .venv
    ```
 
 2. Activate the environment
@@ -19,7 +19,7 @@ A repo of starter code kit for web-automation agent
 3. Install the dependencies
 
     ```bash
-    python3.11 -m pip install -r requirements.txt
+    python -m pip install -r requirements.txt
     ```
 
 ## Step 2: Get API key
