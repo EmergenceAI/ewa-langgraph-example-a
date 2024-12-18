@@ -36,5 +36,5 @@ EMERGENCE_API_KEY="<your API key here>"
 1. Run the starter code
 
     ```bash
-        python3.11 langgraph_code.py
+        python langgraph_code.py
     ```
